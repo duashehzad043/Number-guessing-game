@@ -118,12 +118,11 @@ This project helps in understanding:
 * Implementation of simple game logic in C++
 
 ---
-
 ## Author
-
-Duaa shahzad
-Air University Karachi Campus
-Department of Computer Science
-Programming Fundamentals Project
+Name: Duaa Shahzad  
+ID: 2540122
+Institute: Air University Karachi Campus  
+Department: Computer Science  
+Course: Programming Fundamentals
 
 ---
